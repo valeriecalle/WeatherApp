@@ -20,3 +20,6 @@ Valerie Calle
 Project Completed
 ## License
 MIT LICENSE
+## Project Preview
+<img width="1393" alt="Screen Shot 2023-01-25 at 12 45 13 AM" src="https://user-images.githubusercontent.com/101648427/214489418-83802f6a-28f2-4c4b-a51d-c0f59466c512.png">
+
