@@ -1,0 +1,151 @@
+:root {
+    color: red;
+    font-weight: 600;
+  }
+  
+  .navbar {
+    margin-bottom: 5vh;
+  }
+  
+  .weather-today {
+    margin-top: 2vh;
+  }
+  .card {
+    text-align:center;
+    background: rgba(15, 11, 11, 0.38);
+    border-radius: 20px;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 1vh;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  
+  .card-search {
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
+  
+  img {
+    
+    width: 70px;
+  }
+  
+  .btn{
+    background-color: white !important;
+    color: white;
+    border-radius: 25px;
+    font-size: smaller;
+    font-weight: bold;
+    border-color: black;
+    border: 15px;
+    width: fit-content;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+  }
+  
+  p {
+    font-size: small;
+    line-height: 1em;
+    font-family: "Montserrat", sans-serif !important;
+  }
+  
+  h3 {
+    margin-left: 1vw;
+    margin-top: 1vh;
+    font-family: "Montserrat", sans-serif !important;
+  }
+  
+  .col-sm-2 .card {
+    padding-top: 1vh;
+  }
+  
+  .todayBlock {
+    margin-bottom: 2vh;
+    display: flex;
+  }
+  
+  .card-title {
+    font-size: .8rem;
+    font-family: "Montserrat", sans-serif !important;
+  }
+  
+  .container {
+    width: 90vw;
+  }
+  
+  
+  #formCity {
+    max-width: fit-content;
+    font-family: "Montserrat", sans-serif !important;
+  }
+  
+  .card-search {
+    min-width: fit-content;
+    margin-left:10%;
+    width:100%;
+  }
+  
+  .card5day {
+    height: fit-content;
+    font-size: .25rem;
+    margin-top: .2vh;
+    margin-left : 5%;
+  }
+  
+  body {
+    background-color: skyblue;
+    height: 100vh;
+  }
+  
+  p,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: black;
+  }
+  
+  h5, h6 {
+    font-weight: 900;
+  }
+  .display-4 {
+    color: white;
+    
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 10px;
+    margin: 0 auto;
+    font-family: "Montserrat", sans-serif !important;
+  }
+  
+  .severeLevel {
+    padding: 4px;
+    background-color: rgb(175, 30, 14);
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+  }
+  
+  .moderateLevel {
+    padding: 4px;
+    background-color: goldenrod;
+    font-weight: 900;
+    border-radius: 5px;
+  }
+  
+  .favorableLevel {
+    padding: 4px;
+    background-color: rgb(21, 147, 21);
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+  }
+  
+  .container {
+    width: 90vw;
+  }
+  #formCity {
+    max-width: fit-content;
+  }
+  
